@@ -1,0 +1,12 @@
+{
+  "Strings": {
+    "select_page_size": "Select page size",
+    "previous" : "Previous",
+    "next": "Next",
+    "add_to_cart": "Add to cart",
+    "shopping_cart": "Shopping Cart",
+    "items_in_cart": "items in cart",
+    "close": "Close",
+    "checkout": "Checkout"
+  }
+}
